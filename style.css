@@ -1,0 +1,40 @@
+body {
+    background-color: #3c3838;
+    color: #E8DCCC;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+  
+    right: 50%;
+    height: 600px;
+    width: 1500px;
+}
+ ul { 
+    display:flex; 
+    justify-content: space-around;
+    list-style-type: none;
+    gap: 1em;
+    
+flex-wrap: wrap;
+ }
+
+.imagecontainer{
+    display: flex;
+    justify-content: center;
+}
+.introtekst{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.titel1{
+    text-align: center;
+    color: #E8DCCC
+}
+a{
+    color: #E8DCCC
+}
+    .favimage { 
+        height: 600px;
+        width: 1500px;
+    }
