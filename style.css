@@ -2,39 +2,113 @@ body {
     background-color: #3c3838;
     color: #E8DCCC;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
-img {
-  
+
+.concertvieuw img {
     right: 50%;
-    height: 600px;
+    /* height: 500px; */
     width: 1500px;
+    padding: 10px;
+
 }
- ul { 
-    display:flex; 
+
+.aboutme{
+    text-align: center;
+}
+.mepic{
+    height: 500px;
+    margin: auto;
+    display: block;
+}
+ul {
+    display: flex;
     justify-content: space-around;
     list-style-type: none;
-    gap: 1em;
     
-flex-wrap: wrap;
- }
+}
 
-.imagecontainer{
+.artiestrij {
     display: flex;
+    position: relative;
+    text-align: center;
+}
+
+.artiestnaam {
+    width: 33.33%;
+    box-sizing: border-box;
+}
+
+.artiestnaam img {
+    width:  400px;
+    height: 400px;
+    display: block;
+}
+
+.introtekst {
+    text-align: center;
+}
+
+.big-title {
+    text-align: center;
+    color: #E8DCCC
+}
+
+a {
+    color: #E8DCCC
+}
+
+.favimage {
+    right: 50%;
+    height: 600px;
+    width: 20000px;
+    padding: 25px
+}
+
+.favintrotekst {
+    text-align: center;
+    margin: 30px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+.imagecontainer a {
+    width: 200px;
+    height: 200px;
+}
+video{
+    display: block;
+    margin: 0 auto;
+}
+.videotext, .concertdate, .setlisttekst, .fanprojecttxt, .projecttxt{
+    text-align: center;
+}
+
+
+.louisintrotekst{
     justify-content: center;
 }
-.introtekst{
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.louissetlist, .harrysetlist, .coldplaysetlist{
+    height: 600px
+}
+
+.louisalbum, .harryalbum, .coldplayalbum {
+    padding-left: 25%;
+    padding-bottom: 10%;
+}
+.listentekst{
+    text-align: right;
+    padding-bottom: 1;
 
 }
-.titel1{
-    text-align: center;
-    color: #E8DCCC
+.louisvid, .louisfanproject, .harryfanproject, .harryvid, .coldplayvid, .coldplayfanproject{
+    height: 500px;
+    
 }
-a{
-    color: #E8DCCC
-}
-    .favimage { 
-        height: 600px;
-        width: 1500px;
-    }
+
+

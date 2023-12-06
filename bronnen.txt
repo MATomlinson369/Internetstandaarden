@@ -1,0 +1,34 @@
+index pagina:
+    concert view=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Frear-view-large-group-people-having-fun-music-concert-while-watching-live-performance-stage_25567107.htm&psig=AOvVaw0_9Dj677mhTqR0GXnGTmZD&ust=1701896182336000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKDj47yX-YIDFQAAAAAdAAAAABAI
+    
+    favoriten pagina:
+        louis tomlinson cover=https://velvetmusic.nl/en/release/1278185/Louis-Tomlinson/Faith-in-the-future/1-CD/4050538835670
+        coldplay cover=https://www.trouw.nl/recensies/coldplay-levert-een-incoherent-album-af-met-composities-zo-plat-als-een-dubbeltje~b6510b67/
+        harry styles cover=https://soundcloud.com/luke-street-912901803/harry-styles-as-it-was-promenade-people-extended-remix-320-kbps
+        hozier cover=https://www.muziker.nl/hozier-unreal-unearth-2-lp
+        bo burnham cover=https://music.apple.com/nl/album/the-inside-outtakes/1628438305
+        RHCP cover=https://www.amazon.nl/Red-Hot-Chili-Peppers-Californication/dp/B00000J7JO
+
+    louis tomlinson pagina:
+        banner=https://www.pinterest.com/pin/faith-in-the-future-in-2022--609182287111693810/
+        setlist=https://twitter.com/LTWorldUpdates/status/1662290080134774786
+        album=https://www.amazon.nl/Faith-Future-Louis-Tomlinson/dp/B0BC1FRWWB
+        louis spotify link=https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp?si=bm3afoPiRDmhFup6X7cY-w
+
+    coldplay pagina:
+        banner=https://www.2dehands.be/v/tickets-en-kaartjes/evenementen-en-festivals/m2024538492-2-tickets-coldplay-dusseldorf-20juli-2024
+        setlist=https://www.instagram.com/p/CbkS_pbKkB3/
+        album=https://www.impericon.com/nl/coldplay-music-of-the-spheres-lp.html
+        coldplay spotify link=https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU?si=Df0N9F8UTy2Zkg04NgddHQ
+
+    harry styles pagina:
+        banner=https://www.npo3fm.nl/nieuws/3fm-megahit/306c6fbc-75cc-4f0c-a1e4-4c0c952b9f62/kiwi-van-harry-styles-is-3fm-megahit
+        setlist=https://kingstylesontour.tumblr.com/post/687161614130102272/setlist-for-manchester-night-1-15062022
+        album=https://groeverij.nl/product/styles-harry-fine-line-2-lp/
+        harry styles spotify link=https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3?si=jCp7pRQAQwiCBnRzGsNWEg
+
+    ratings"
+    Louis icon=https://velvetmusic.nl/en/release/1278185/Louis-Tomlinson/Faith-in-the-future/1-CD/4050538835670
+    coldplay icon=https://www.trouw.nl/recensies/coldplay-levert-een-incoherent-album-af-met-composities-zo-plat-als-een-dubbeltje~b6510b67/
+    harry icon=https://soundcloud.com/luke-street-912901803/harry-styles-as-it-was-promenade-people-extended-remix-320-kbps
+    
